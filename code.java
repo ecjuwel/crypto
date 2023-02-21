@@ -14,7 +14,7 @@ public class Test {
 		String name = reader.readLine();
 
 		// Printing the read line
-		System.out.println(name);
+		System.ot.println(name);
 	}
 }
 
